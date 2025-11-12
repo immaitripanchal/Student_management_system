@@ -37,4 +37,4 @@ I created this project while learning how to build **RESTful APIs**, handle **da
 
 ## 🧍‍♀️ Author
 **Maitri Panchal**  
-🌐 [LinkedIn](www.linkedin.com/in/maitri-panchal-3a00aa364)
+🌐 [LinkedIn](https://www.linkedin.com/in/maitri-panchal-3a00aa364)
